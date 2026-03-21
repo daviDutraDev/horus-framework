@@ -1,0 +1,16 @@
+www.google.com
+mail.google.com
+shop.google.com
+smtp.google.com
+ns1.google.com
+ns2.google.com
+vpn.google.com
+blog.google.com
+m.google.com
+api.google.com
+www.support.google.com
+support.google.com
+admin.google.com
+store.google.com
+ns.google.com
+email.google.com
